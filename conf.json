@@ -1,0 +1,7 @@
+{
+  "aes_filename": "aes.key",
+  "frame_len": 276,
+  "enc_start_pos": 100,
+  "enc_len": 160,
+  "iv_pos": 260
+}
